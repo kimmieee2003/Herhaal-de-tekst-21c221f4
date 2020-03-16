@@ -1,9 +1,5 @@
 <?php
 
-$tekst = "Kimberly";
-echo "mijn naam is $tekst \n";
-echo "mijn naam is $tekst \n";
-echo "mijn naam is $tekst \n";
-echo "mijn naam is $tekst \n";
-echo "mijn naam is $tekst \n";
+$a_text = "Kimberly";
+echo str_repeat ($a_text, 5)
 ?>
